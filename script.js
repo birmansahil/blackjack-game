@@ -19,3 +19,7 @@ if (sum <= 20) {
 console.log(isAlive);
 console.log(hasBlackJack);
 console.log(message);
+
+function startGame() {
+    console.log("Game started");
+}

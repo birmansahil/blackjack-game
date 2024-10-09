@@ -14,18 +14,23 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    text-align: center;
+    color: #CBD5E1;
+    background-color: #0F172A;
 }
 
 .container {
-    width: 95%;
+    width: 725px;
     margin: 0 auto;
     padding: 50px;
-    text-align: center;
-    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    border: 2px solid #CBD5E1;
+    border-radius: 10px;
+    box-shadow: 10px 10px 0 #CBD5E1;
 }
 
 h1 {
-    color: #3A31DA;
+    font-size: 48px;
+    color: #16A34A;
 }
 
 p {
